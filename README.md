@@ -1,4 +1,4 @@
-# learningRepo
+# Personal Learning Repo 
 
 ## By Joseph Whiteaker
 
