@@ -2,7 +2,7 @@
 
 ## By Joseph Whiteaker
 
-### What I know
+### Where I'm at now
 
 - Making a React app 
 - Styling with scss
@@ -12,7 +12,7 @@
 - Setting up code formatters (Prettier) 
 - Being able to write basic Typescript 
 
-### Now I am trying to go more in depth by learning new topics
+### New Goals 
 
 - Creating a React App solely with Typescript
 - Integrating Webpack into a React app 
