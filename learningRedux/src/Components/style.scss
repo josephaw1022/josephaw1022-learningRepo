@@ -1,0 +1,13 @@
+$myColor: #573232;
+
+
+:export { mycolor: $myColor }
+
+
+.myButton {
+  background: $myColor;
+}
+
+.myProgressBar{
+    background-color: $myColor;
+}
